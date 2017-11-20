@@ -1,5 +1,6 @@
-source 'https://rubygems.org'
+source "http://rubygems.org"
 
-gem 'rouge'
-gem 'jekyll'
-gem 'jemoji'
+gem 'github-pages'
+gem 'compass'
+gem 'sass-media_query_combiner'
+gem 'autoprefixer-rails'
