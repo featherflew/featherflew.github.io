@@ -6,7 +6,7 @@ category: 音樂分享
 tag:
 - 音樂分享
 - 作業妨礙用
-image: http://localhost:4000/Louis%20Tomlinson%20-%20Back%20to%20You.png
+image: "/assets/img_post/Louis%20Tomlinson%20-%20Back%20to%20You.png"
 introduction: 慵懶風的超棒音樂
 ---
 
