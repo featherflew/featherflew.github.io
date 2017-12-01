@@ -19,7 +19,7 @@ introduction: 慵懶風的超棒音樂
 <iframe width="550" height="450" src="https://www.youtube.com/embed/-HjpL-Ns6_A?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 
-**中文歌詞：**
+**中英文歌詞：**
 
 I know you say you know me, know me well<br />
 我知道你說你認識我，非常熟<br />
